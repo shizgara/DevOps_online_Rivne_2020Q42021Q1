@@ -1,0 +1,14 @@
+5d3aaec (HEAD -> master, origin/master, origin/develop, develop) HEAD@{0}: merge develop: Fast-forward
+9013813 HEAD@{1}: checkout: moving from develop to master
+5d3aaec (HEAD -> master, origin/master, origin/develop, develop) HEAD@{2}: commit (merge): merge styles imgaes develop
+02e3bb2 (origin/images, images) HEAD@{3}: merge images: Fast-forward
+399067a HEAD@{4}: checkout: moving from styles to develop
+66ea0f5 (origin/styles, styles) HEAD@{5}: commit: add styles
+399067a HEAD@{6}: checkout: moving from develop to styles
+399067a HEAD@{7}: checkout: moving from images to develop
+02e3bb2 (origin/images, images) HEAD@{8}: commit: add images source inside html
+33dc4cb HEAD@{9}: commit: add some images
+399067a HEAD@{10}: checkout: moving from develop to images
+399067a HEAD@{11}: commit: create index.html
+9013813 HEAD@{12}: checkout: moving from master to develop
+9013813 HEAD@{13}: commit (initial): create readme
