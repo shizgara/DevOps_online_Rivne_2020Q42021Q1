@@ -18,4 +18,4 @@
 
 + 1.2  I downloaded the latest stable version of VirtualBox according to the host operating system From the official VirtualBox site and  installed on the workplace.Downloaded the latest stable version of Ubuntu Desktop from the official site
 + 1.3  Create VM1 and install Ubuntu using the instructions . Set machine name Ubuntu Gurskyi
-![Create VM](https://image.shutterstock.com/image-vector/initial-letter-v-m-vm-260nw-1498952573.jpg)
+![Create VM](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.1/images/create%20vm.png)
