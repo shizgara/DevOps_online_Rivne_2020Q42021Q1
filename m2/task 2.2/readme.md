@@ -8,31 +8,47 @@
 ![Create VM with Lightsail](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/4%20connect%20to%20instance.png)
 ##### 5.
     I have launched another Linux Virtual Machine without Amazon Lightsail
-![Group VM](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/5%20Instance%20without%20Amazon%20Lightsail.png)
-+ 1.7 For VM1, changed its state, taked several different snapshots
-![Snapshots](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.1/images/snapshot.png)
-+ 1.8 
-    Export VM1
-![Export](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.1/images/export.png)
-    Import VM
-![Import](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.1/images/import.png)
-+ 2.2 Configured the USB to connect the USB ports of the host machine to the VM
-![USB](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.1/images/usb.png)
-+ 2.3 Configured a shared folder to exchange data between the virtual machine and the host
-![shared folder](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.1/images/shared.png)
-+ 2.4 Configured different network modes for VM1, VM2. Check the connection between VM1, VM2, Host, Internet for different network modes. Maked a table of possible connections.
-![Network](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.1/images/Network.png)
-+ 3 Work with CLI through VBoxManage
-![CLI1](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.1/images/CLI_1.png)
-![CLI2](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.1/images/CLI_2.png)
+![Linux Virtual Machine without Amazon Lightsail](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/5%20Instance%20without%20Amazon%20Lightsail.png)
+##### 6.
+    I have created a snapshot of your instance
+![snapshot](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/6%20Snapshot.png)
+##### 7.
+    I have created and attached a Disk_D (EBS) to my instance. Created and saved file on Disk_D
+![volume](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/7%20Create%20and%20attach%20volume.png)
+![attach&file](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/7%20Create%20and%20save%20some%20file.png)
+##### 8.
+    I have launched the third instance from backup
+![image](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/8%20chose%20image.png)
+![AMIs](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/8%20create%20image%20for%20backup.png)
+![Create instance](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/8%20create%20instance%20from%20backup.png)
+##### 9.
+    I have detached Disk_D from the 2nd instance and attached disk_D to the new instance
+![EBS](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/9%20Detach%20and%20attach%20disk%20d.png)
+##### 10.
+    I have launched and configure a WordPress instance with Amazon Lightsail
+![Wordpress1](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/10%20Create%20staticIp.png)
+![Wordpress1](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/10%20DNS.png)
+![Wordpress1](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/10%20Wordpress%20enter%20dashboar.png)
+![Wordpress1](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/10%20Wordpresspassword.png)
+##### 11.
+    I have created S3 bucket 
+![S3](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/11%20create%20bucket%20and%20upload%20file.png)
+##### 12.
+    I have created S3 bucket 
+![AWS CLI S3](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/12%20AWS%20CLI%20Bucket.png)
+##### 13.
+    I have explored the possibilities of creating my own domain and domain name for my site 
+![Domain](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/13%20create%20domain.png)
+##### 14.
+    I have created a cluster
+![Domain](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/14%20create%20cluster.png)
+##### 15.
+    I have created a static website on Amazon S3
+    [Here is my site](http://www.websitetaskepam.com.s3-website.eu-central-1.amazonaws.com/)
 
 
 
-#### PART 3. WORK WITH VAGRANT
 
-![Vagrant1](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.1/images/vagrant1.png)
-![Vagrant2](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.1/images/vagrant2.png)
-![Vagrant3](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.1/images/vagrant3.png)
 
 
 
