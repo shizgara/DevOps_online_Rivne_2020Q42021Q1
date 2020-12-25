@@ -1,58 +1,52 @@
 # Part 1
 
-##### 1. 
-    I readed the terms of Using the AWS Free Tier and the ability to control their own costs
-##### 2. 
-    I have registered with AWS
-##### 4. 
-    I have created my own VM in the AWS cloud
-![Create VM with Lightsail](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/4%20connect%20to%20instance.png)
-##### 5.
-    I have launched another Linux Virtual Machine without Amazon Lightsail
-![Linux Virtual Machine without Amazon Lightsail](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/5%20Instance%20without%20Amazon%20Lightsail.png)
-##### 6.
-    I have created a snapshot of my instance
-![snapshot](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/6%20Snapshot.png)
-##### 7.
-    I have created and attached a Disk_D (EBS) to my instance. Created and saved file on Disk_D
-![volume](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/7%20Create%20and%20attach%20volume.png)
-![attach&file](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/7%20Create%20and%20save%20some%20file.png)
-##### 8.
-    I have launched the third instance from backup
-![image](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/8%20chose%20image.png)
-![AMIs](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/8%20create%20image%20for%20backup.png)
-![Create instance](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/8%20create%20instance%20from%20backup.png)
-##### 9.
-    I have detached Disk_D from the 2nd instance and attached disk_D to the new instance
-![EBS](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/9%20Detach%20and%20attach%20disk%20d.png)
-##### 10.
-    I have launched and configure a WordPress instance with Amazon Lightsail
-![Wordpress1](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/10%20Create%20staticIp.png)
-![Wordpress1](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/10%20DNS.png)
-![Wordpress1](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/10%20Wordpress%20enter%20dashboar.png)
-![Wordpress1](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/10%20Wordpresspassword.png)
-##### 11.
-    I have created S3 bucket 
-![S3](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/11%20create%20bucket%20and%20upload%20file.png)
-##### 12.
-    I have created a user AWS IAM, configureed CLI AWS and uploaded file to S3.
-![AWS CLI S3](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/12%20AWS%20CLI%20Bucket.png)
-##### 13.
-    I have explored the possibilities of creating my own domain and domain name for my site 
-![Domain](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/13%20create%20domain.png)
-##### 14.
-    I have created a cluster
-![Domain](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/14%20create%20cluster.png)
-##### 15.
-    I have created a static website on Amazon S3
-[Here is my site](http://www.websitetaskepam.com.s3-website.eu-central-1.amazonaws.com/)
+##### 1,2. 
+    I have downloaded MySQL server for my OS on VM and installed MySQL
+    ![Install SQL](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%201/1%2C2%20secure%20installation.png)
+    ![secured root](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%201/2%20mysql%20root.png)
+##### 3,4.  
+    I have created a database and tables on the server through the console
+    ![Create DB](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%201/4%20create%20database.png)
+    ![Tables](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%201/4%20CREATE%20TABLE.png)
+##### 5.  
+    I have filled in tables
+    ![Fill in](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%201/5%20filled%20tables.png)
+##### 6.  
+    I have constructed and executed SELECT operator with WHERE, GROUP BY and ORDER BY.
+    ![SELECT](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%201/6%20groupby%20orderby.png)
+##### 7.  
+    I have executed other different SQL queries DDL, DML, DCL
+    ![DLC](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%201/7%20DCL.png)
+    ![DDL,DML](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%201/7%20DDL%2CDML.png)
+##### 8.  
+    I have created a database of new users with different privileges. Connected to the database as a new user and verified that the privileges allow or deny certain actions
+    ![img1](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%201/8_1.png)
+    ![img2](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%201/8_2.png)
+##### 9.  
+    I have maked a selection from the main table DB MySQL
+    ![Select](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%201/9%20select.png)
 
 
+# Part 2
 
-
-
-
-
-
+##### 10. 
+    I have maked backup of my database
+    ![Backup](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%202/10%20backup.png)
+##### 11. 
+    I have deleted the table
+    ![Drop table](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%202/11%20drop%20table.png)
+##### 12. 
+    I have restored my database
+    ![Restore](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%202/12%20restore.png)
+##### 13,14. 
+    I have transfered my local database to RDS AWS and connected to my database.
+    ![Connect](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%202/13%20create%20db%20on%20aws.png)
+    ![Transfer](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%202/14%20Transfer%20and%20connect%20to%20FB.png)
+##### 15. 
+    I have executed SELECT operator .
+    ![Select](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%202/15%20execure%20SELECT.png)
+##### 16. 
+    I have create the dump of my database on RDS.
+    ![Backup from rds](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%202/16%20Create%20dump.png)
 
 
