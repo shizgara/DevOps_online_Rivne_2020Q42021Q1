@@ -1,6 +1,6 @@
-#### Task 2.2
-1. I readed the terms of Using the AWS Free Tier and the ability to control their own costs
-2. I have registered with AWS
+# Task 2.2
+##### 1. I readed the terms of Using the AWS Free Tier and the ability to control their own costs
+##### 2. I have registered with AWS
 4. I have created my own VM in the AWS cloud
 ![Create VM with Lightsail](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/4%20connect%20to%20instance.png)
 5. I have launched another Linux Virtual Machine without Amazon Lightsail
