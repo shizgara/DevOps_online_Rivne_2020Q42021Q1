@@ -10,7 +10,7 @@
     I have launched another Linux Virtual Machine without Amazon Lightsail
 ![Linux Virtual Machine without Amazon Lightsail](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/5%20Instance%20without%20Amazon%20Lightsail.png)
 ##### 6.
-    I have created a snapshot of your instance
+    I have created a snapshot of my instance
 ![snapshot](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/6%20Snapshot.png)
 ##### 7.
     I have created and attached a Disk_D (EBS) to my instance. Created and saved file on Disk_D
@@ -34,7 +34,7 @@
     I have created S3 bucket 
 ![S3](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/11%20create%20bucket%20and%20upload%20file.png)
 ##### 12.
-    I have created S3 bucket 
+    I have created a user AWS IAM, configureed CLI AWS and uploaded file to S3.
 ![AWS CLI S3](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/12%20AWS%20CLI%20Bucket.png)
 ##### 13.
     I have explored the possibilities of creating my own domain and domain name for my site 
@@ -44,7 +44,7 @@
 ![Domain](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m2/task%202.2/images/14%20create%20cluster.png)
 ##### 15.
     I have created a static website on Amazon S3
-    [Here is my site](http://www.websitetaskepam.com.s3-website.eu-central-1.amazonaws.com/)
+[Here is my site](http://www.websitetaskepam.com.s3-website.eu-central-1.amazonaws.com/)
 
 
 
