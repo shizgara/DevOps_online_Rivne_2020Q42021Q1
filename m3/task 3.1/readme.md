@@ -55,4 +55,13 @@ I have maked a selection from the main table DB MySQL
 
 ##### 17. 
     I have created an Amazon DynamoDB table
-![DynamoDB](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%202/16%20Create%20dump.png)
+![DynamoDB](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%203/17%20Dynamo%20DB.png)
+##### 18. 
+    I have entered data into an Amazon DynamoDB table
+![Enter Data](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%203/18%20Enter%20data.png)
+##### 19. 
+    I have queried an Amazon DynamoDB table using Query and Scan
+![Query1](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%203/19%20Scan1.png)
+![Query2](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%203/19%20Scan2.png)
+![Scan1](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%203/19%20Query1.png)
+![Scan2](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%203/19%20Query2.png)
