@@ -1,0 +1,171 @@
+
+1)_
+
+![image]()
+
+
+Building 1 : 
+                                
+First floor:
+PC9: IP:192.168.2.2/24   PC0: IP:192.168.2.3/24   PC1: IP:192.168.2.4/24  
+PC2: IP:192.168.2.5/24   PC3: IP:192.168.2.6/24 
+Gateway: 192.168.2.1 
+ 
+Second floor:
+PC5: IP:192.168.3.2/24   PC6: IP:192.168.3.3/24   PC7: IP:192.168.3.4/24
+PC8: IP:192.168.3.5/24   PC20: IP:192.168.3.6/24
+Gateway: 192.168.3.1
+
+===========================================
+
+Building 2 :   
+    
+First floor:
+PC15: IP:192.168.5.2/24   PC16: IP:192.168.5.3/24   PC17: IP:192.168.5.4/24     
+PC18: IP:192.168.5.5/24   PC19: IP:192.168.5.6/24
+Gateway: 192.168.5.1
+
+Second floor:
+PC10: IP:192.168.4.2/24   PC11: IP:192.168.4.3/24   PC12: IP:192.168.4.4/24
+PC13: IP:192.168.4.5/24   PC14: IP:192.168.4.6/24
+Gateway: 192.168.4.1
+
+
+**Note**: I have configured routing on the Multilayer Switch 3560-PS, all PCs can ping each other.
+
+![image]()
+
+
+
+2)_
+
+
+![image]()
+
+Floor 1:
+
+PC1/1: IP:192.168.3.2/24   PC2/1: IP:192.168.3.3/24   PC3/1: IP:192.168.3.4/24  
+Gateway: 192.168.3.1
+-------------------------
+PC4/1: IP:192.168.2.2/24   PC5/1: IP:192.168.2.3/24   PC6/1: IP:192.168.2.4/24   PC7/1: IP:192.168.2.5/24   PC8/1: IP:192.168.2.6/24
+Gateway: 192.168.2.1
+
+Floor 2:     
+ 
+PC1/2: IP:192.168.4.2/24   PC2/2: IP:192.168.4.3/24   PC3/2: IP:192.168.4.4/24  
+Gateway: 192.168.4.1
+-------------------------
+PC4/2: IP:192.168.5.2/24   PC5/2: IP:192.168.5.3/24   PC6/2: IP:192.168.5.4/24   PC7/2: IP:192.168.5.5/24   PC8/2: IP:192.168.5.6/24
+Gateway: 192.168.5.1
+
+Floor 3:
+
+PC6/3: IP:192.168.7.2/24   PC7/3: IP:192.168.7.3/24   PC8/3: IP:192.168.7.4/24  
+Gateway: 192.168.7.1
+-------------------------
+PC1/3: IP:192.168.6.2/24   PC2/3: IP:192.168.6.3/24   PC3/3: IP:192.168.6.4/24   PC4/3: IP:192.168.6.5/24   PC5/3: IP:192.168.6.6/24
+Gateway: 192.168.6.1
+
+Floor 4:
+
+PC8/4: IP:192.168.9.2/24   PC7/4: IP:192.168.9.3/24   PC6/4: IP:192.168.9.4/24  
+Gateway: 192.168.9.1
+-------------------------
+PC1/4: IP:192.168.8.2/24   PC2/4: IP:192.168.8.3/24   PC3/4: IP:192.168.8.4/24   PC4/4: IP:192.168.8.5/24   PC5/4: IP:192.168.8.6/24
+Gateway: 192.168.8.1
+
+Floor 5:
+
+PC6/5: IP:192.168.11.2/24   PC7/5: IP:192.168.11.3/24   PC8/5: IP:192.168.11.4/24  
+Gateway: 192.168.11.1
+-------------------------
+PC1/5: IP:192.168.10.2/24   PC2/5: IP:192.168.10.3/24   PC3/5: IP:192.168.10.4/24   PC4/5: IP:192.168.10.5/24   PC5/5: IP:192.168.10.6/24
+Gateway: 192.168.10.1
+
+**Note**: I have configured routing on the Multilayer Switch 3560-PS, all PCs can ping each other.
+
+![image]()
+
+
+
+3)_
+
+![image](https://user-images.githubusercontent.com/46674112/89119407-0965ed80-d4b7-11ea-8da4-56e2d3e54b3c.png)
+
+
+
+Configuring VLANs on switches:
+
+
+![image](https://user-images.githubusercontent.com/46674112/89118252-cbfc6280-d4ac-11ea-8e3c-8eeff8b25c17.png)
+
+
+![image](https://user-images.githubusercontent.com/46674112/89118295-475e1400-d4ad-11ea-9970-3c473f8316fd.png)
+
+
+![image](https://user-images.githubusercontent.com/46674112/89118549-17b00b80-d4af-11ea-8990-0cfb3b467e4e.png)
+
+
+![image](https://user-images.githubusercontent.com/46674112/89118586-5cd43d80-d4af-11ea-9f39-7e804bb46e2e.png)
+
+
+
+![image](https://user-images.githubusercontent.com/46674112/89118457-aa03df80-d4ae-11ea-9fdd-b63d2fb63a7e.png)
+
+
+Configuring Trunks on switches:
+
+
+![image](https://user-images.githubusercontent.com/46674112/89119049-e259ec80-d4b3-11ea-91c0-2109a256f74e.png)
+
+
+![image](https://user-images.githubusercontent.com/46674112/89119079-16cda880-d4b4-11ea-970b-d846bba78b03.png)
+
+
+Configuring Router:
+
+
+![image](https://user-images.githubusercontent.com/46674112/89119234-39ac8c80-d4b5-11ea-8e81-21cc6a5c1167.png)
+
+
+Checking connectivity:
+
+
+![image](https://user-images.githubusercontent.com/46674112/89120037-6368b200-d4bb-11ea-86ab-073905d9bed2.png)
+
+
+
+![image](https://user-images.githubusercontent.com/46674112/89120053-90b56000-d4bb-11ea-8386-0b923ecc8aa2.png)
+
+
+
+
+First building : VLAN 2
+PC4/1: IP:192.168.2.2/24   PC5/1: IP:192.168.2.3/24   PC6/1: IP:192.168.2.4/24   PC7/1: IP:192.168.2.5/24   PC8/1: IP:192.168.2.6/24  PC1/1: IP:192.168.2.7/24
+Gateway: 192.168.2.1
+
+Second building :   VLAN 5   
+PC4/2: IP:192.168.5.2/24   PC5/2: IP:192.168.5.3/24   PC6/2: IP:192.168.5.4/24   PC7/2: IP:192.168.5.5/24   PC8/2: IP:192.168.5.6/24  PC1/2: IP:192.168.5.7/24
+Gateway: 192.168.5.1
+
+Third building :    VLAN 6  
+PC1/3: IP:192.168.6.2/24   PC2/3: IP:192.168.6.3/24   PC3/3: IP:192.168.6.4/24   PC4/3: IP:192.168.6.5/24   PC5/3: IP:192.168.6.6/24  PC6/3: IP:192.168.6.7/24
+Gateway: 192.168.6.1
+
+Fourth building :    VLAN 8    
+PC1/4: IP:192.168.8.2/24   PC2/4: IP:192.168.8.3/24   PC3/4: IP:192.168.8.4/24   PC4/4: IP:192.168.8.5/24   PC5/4: IP:192.168.8.6/24   PC6/4: IP:192.168.8.7/24
+Gateway: 192.168.8.1
+
+Fifth building details:    VLAN 10    
+PC1/5: IP:192.168.10.2/24   PC2/5: IP:192.168.10.3/24   PC3/5: IP:192.168.10.4/24   PC4/5: IP:192.168.10.5/24   PC5/5: IP:192.168.10.6/24   PC8/5: IP:192.168.10.7/24
+Gateway: 192.168.10.1
+
+
+
+
+
+
+
+
+
+
