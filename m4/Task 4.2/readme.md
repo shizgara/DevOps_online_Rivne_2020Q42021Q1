@@ -1,14 +1,14 @@
 # Task 4.2
 
 
-##### Task 1
+## Task 1
 
 ![project 1](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m4/Task%204.2/images/1.png)
 
 
 Building 1 : 
                                 
-First floor:
+First floor:   
 PC9: IP:192.168.2.2/24   
 PC0: IP:192.168.2.3/24   
 PC1: IP:192.168.2.4/24  
@@ -16,7 +16,7 @@ PC2: IP:192.168.2.5/24
 PC3: IP:192.168.2.6/24 
 Gateway: 192.168.2.1 
  
-Second floor:
+Second floor:   
 PC5: IP:192.168.3.2/24  
 PC6: IP:192.168.3.3/24   
 PC7: IP:192.168.3.4/24
@@ -28,7 +28,7 @@ Gateway: 192.168.3.1
 
 Building 2 :   
     
-First floor:
+First floor:   
 PC15: IP:192.168.5.2/24   
 PC16: IP:192.168.5.3/24   
 PC17: IP:192.168.5.4/24     
@@ -36,7 +36,7 @@ PC18: IP:192.168.5.5/24
 PC19: IP:192.168.5.6/24
 Gateway: 192.168.5.1
 
-Second floor:
+Second floor:   
 PC10: IP:192.168.4.2/24   
 PC11: IP:192.168.4.3/24   
 PC12: IP:192.168.4.4/24
@@ -54,7 +54,7 @@ Gateway: 192.168.4.1
 
 
 
-##### Task 2
+## Task 2
 
 
 ![image](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m4/Task%204.2/images/2_1.png)
@@ -73,7 +73,7 @@ PC4/1: IP:192.168.2.2/24
 PC5/1: IP:192.168.2.3/24   
 PC6/1: IP:192.168.2.4/24   
 PC7/1: IP:192.168.2.5/24   
-PC8/1: IP:192.168.2.6/24
+PC8/1: IP:192.168.2.6/24   
 Gateway: 192.168.2.1
 
 Floor 2:     
@@ -89,7 +89,7 @@ PC4/2: IP:192.168.5.2/24
 PC5/2: IP:192.168.5.3/24   
 PC6/2: IP:192.168.5.4/24   
 PC7/2: IP:192.168.5.5/24   
-PC8/2: IP:192.168.5.6/24
+PC8/2: IP:192.168.5.6/24   
 Gateway: 192.168.5.1
 
 Floor 3:
@@ -105,7 +105,7 @@ PC1/3: IP:192.168.6.2/24
 PC2/3: IP:192.168.6.3/24   
 PC3/3: IP:192.168.6.4/24   
 PC4/3: IP:192.168.6.5/24   
-PC5/3: IP:192.168.6.6/24
+PC5/3: IP:192.168.6.6/24   
 Gateway: 192.168.6.1
 
 Floor 4:
@@ -121,7 +121,7 @@ PC1/4: IP:192.168.8.2/24
 PC2/4: IP:192.168.8.3/24   
 PC3/4: IP:192.168.8.4/24   
 PC4/4: IP:192.168.8.5/24   
-PC5/4: IP:192.168.8.6/24
+PC5/4: IP:192.168.8.6/24   
 Gateway: 192.168.8.1
 
 Floor 5:
@@ -137,7 +137,7 @@ PC1/5: IP:192.168.10.2/24
 PC2/5: IP:192.168.10.3/24   
 PC3/5: IP:192.168.10.4/24   
 PC4/5: IP:192.168.10.5/24   
-PC5/5: IP:192.168.10.6/24
+PC5/5: IP:192.168.10.6/24   
 Gateway: 192.168.10.1
 
 **Note**: I have configured routing on the Multilayer Switch 3560-PS, all PCs can ping each other.
@@ -146,7 +146,7 @@ Gateway: 192.168.10.1
 
 
 
-##### Task 3
+## Task 3
 
 All Pcs can ping each others from different networks
 Configured VLANs on switches
