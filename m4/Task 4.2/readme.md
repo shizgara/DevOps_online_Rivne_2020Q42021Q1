@@ -1,7 +1,9 @@
+# Task 4.1
 
-1)_
 
-![image]()
+##### 1
+
+![project 1](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m4/Task%204.2/images/1.png)
 
 
 Building 1 : 
@@ -33,7 +35,7 @@ Gateway: 192.168.4.1
 
 **Note**: I have configured routing on the Multilayer Switch 3560-PS, all PCs can ping each other.
 
-![image]()
+[Project you can see here](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/tree/master/m4/Task%204.2/projects)
 
 
 
