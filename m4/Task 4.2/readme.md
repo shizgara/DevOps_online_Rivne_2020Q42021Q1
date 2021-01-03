@@ -148,11 +148,11 @@ Gateway: 192.168.10.1
 
 ## Task 3
 
-All Pcs can ping each others from different networks
-Configured VLANs on switches
-Configured Trunks on switches
-Configured Router
-Checked connectivity
+All Pcs can ping each others from different networks   
+Configured VLANs on switches   
+Configured Trunks on switches   
+Configured Router   
+Checked connectivity   
 
 ![image](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m4/Task%204.2/images/3_1.png)
 ![image](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m4/Task%204.2/images/3_2.png)
