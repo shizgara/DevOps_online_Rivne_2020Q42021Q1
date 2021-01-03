@@ -1,7 +1,7 @@
-# Task 4.1
+# Task 4.2
 
 
-##### 1
+##### Task 1
 
 ![project 1](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m4/Task%204.2/images/1.png)
 
@@ -54,7 +54,7 @@ Gateway: 192.168.4.1
 
 
 
-##### 2
+##### Task 2
 
 
 ![image](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m4/Task%204.2/images/2_1.png)
@@ -146,7 +146,7 @@ Gateway: 192.168.10.1
 
 
 
-##### 3
+##### Task 3
 
 All Pcs can ping each others from different networks
 Configured VLANs on switches
