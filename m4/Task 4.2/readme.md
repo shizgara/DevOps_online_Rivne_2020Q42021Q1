@@ -54,7 +54,6 @@ Gateway: 192.168.4.1
 
 
 
-
 ##### 2
 
 
@@ -63,8 +62,8 @@ Gateway: 192.168.4.1
 
 Floor 1:
 
-PC1/1: IP:192.168.3.2/24
-PC2/1: IP:192.168.3.3/24
+PC1/1: IP:192.168.3.2/24   
+PC2/1: IP:192.168.3.3/24   
 PC3/1: IP:192.168.3.4/24  
 Gateway: 192.168.3.1
 -------------------------
@@ -190,8 +189,6 @@ PC4/5: IP:192.168.10.5/24
 PC5/5: IP:192.168.10.6/24   
 PC8/5: IP:192.168.10.7/24
 Gateway: 192.168.10.1
-
-[Project you can see here](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/tree/master/m4/Task%204.2/projects)
 
 
 
