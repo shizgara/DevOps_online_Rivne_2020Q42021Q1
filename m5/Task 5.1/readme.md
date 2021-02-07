@@ -14,7 +14,7 @@
 ![less](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m5/Task%205.1/Part%201/3_1.PNG)
 ![ps](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m5/Task%205.1/Part%201/3_2.PNG)
 ##### 4
-    I have changed personal information about myself using command chfn. Also I tried to use command usermode, but use her need very careful
+    I have changed personal information about myself using command chfn. Also I tried to use command usermode, but use her need be very careful
 ![chfn](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m5/Task%205.1/Part%201/4.PNG)
 ##### 5
     I have becomed familiar with the Linux help system and the man and info commands. I got help on the next commands: ps and chfn. Few examples:
@@ -27,7 +27,7 @@
 ![man](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m5/Task%205.1/Part%201/5_3.PNG)
 ![key](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m5/Task%205.1/Part%201/5_4.PNG)
 ##### 6
-    I have explored the more and less commands using the help system. View the contents of files .bash* using commands.
+    I have explored the more and less commands using the help system. I have viewed the contents of files .bash* using commands.
 ![less](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m5/Task%205.1/Part%201/6_1.PNG)
 ![more](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m5/Task%205.1/Part%201/6_2.PNG)
 ![less](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m5/Task%205.1/Part%201/6_3.PNG)
@@ -48,7 +48,7 @@
 ![tree](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m5/Task%205.1/Part%202/1_1.PNG)
 ![tree](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m5/Task%205.1/Part%202/1_2.PNG)
 ##### 2
-    File - this command can be used to determine the type of file. Few an examples.
+    File - i have used this command  to determine the type of file. Few an examples.
 ![file](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m5/Task%205.1/Part%202/2.PNG)
 ##### 3
     cd ~/ - this command can back to home directory from anywhere in the filesystem
