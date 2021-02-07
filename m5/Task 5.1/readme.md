@@ -9,7 +9,7 @@
 ![passwd1](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m5/Task%205.1/Part%201/2_1.PNG)
 ![passwd2](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m5/Task%205.1/Part%201/2_1.PNG)
 ##### 3  
-    I have determined the users registered in the system, as well as what commands they execute. During using "ps aux" we can glean next additional information: 
+    I have determined the users registered in the system, as well as what commands they execute. During using "ps aux" I got glean next additional information: 
 	users, PID(id processes), % cpu using, % memory using, TTY, status, time using and etc.
 ![less](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m5/Task%205.1/Part%201/3_1.PNG)
 ![ps](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m5/Task%205.1/Part%201/3_2.PNG)
