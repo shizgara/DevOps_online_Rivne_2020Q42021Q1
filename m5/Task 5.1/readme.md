@@ -2,12 +2,12 @@
 
 ##### 1
     I have logged to system(Ubuntu 20.04) as a root using MobaXterm.
-![Install SQL](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%201/1%2C2%20secure%20installation.png)
-    ![secured root](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%201/2%20mysql%20root.png)
+![ubuntu](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m5/Task%205.1/Part%201/1.png)
+   
 ##### 2  
     I have used the passwd command to change the password. Than I examined the basic parameters of the command. The command passwd changed next file - /ect/passwd
-![Create DB](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%201/4%20create%20database.png)
-![Tables](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m3/task%203.1/images/Part%201/4%20CREATE%20TABLE.png)
+![passwd1](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m5/Task%205.1/Part%201/2_1.PNG)
+![passwd2](https://github.com/shizgara/DevOps_online_Rivne_2020Q42021Q1/blob/master/m5/Task%205.1/Part%201/2_1.PNG)
 ##### 3  
     I have determined the users registered in the system, as well as what commands they execute. During using "ps aux" we can glean next additional information: 
 	users, PID(id processes), % cpu using, % memory using, TTY, status, time using and etc.
